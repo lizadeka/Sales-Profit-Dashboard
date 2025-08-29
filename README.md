@@ -31,3 +31,8 @@ It is designed to help understand **which products, customers, and demographics 
 ---
 
 ## 📷 Screenshots
+
+<img width="1157" height="622" alt="image" src="https://github.com/user-attachments/assets/04c43c2a-ae98-4ccf-83cf-73710be7ef86" />
+
+<img width="1153" height="645" alt="image" src="https://github.com/user-attachments/assets/de1f04e1-9b99-4589-86d4-d4be31508cae" />
+

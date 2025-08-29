@@ -16,12 +16,18 @@ It is designed to help understand **which products, customers, and demographics 
 ---
 
 ## 📌 Dashboard Highlights
-- Identify top-performing product categories  
-- Compare profit margins across customer demographics  
-- Track monthly sales and profit growth  
-- Explore customer-level sales & profitability  
-- Adjust cost assumptions with a **What-if slicer**  
+```
+Top-Performing Categories: Electronics contributed the highest total sales & profit, while Beauty showed the lowest performance.
 
+Profit Margins by Demographics: Customers aged 36–50 generated the highest profit margins overall. Within this group, female customers contributed slightly more (50%) than males (49%),
+and customers aged less than 25 contributed less.
+
+Monthly Trends: Sales and profit peaked in May, with a noticeable dip in September.
+
+Customer-Level Insights: A small group of loyal customers drove a major share of revenue, while many customers contributed minimal profit.
+
+What-if Analysis: A 5% decrease in cost per unit scenario significantly boosted profit margins across all categories
+```
 ---
 
 ## 🛠️ Tools Used

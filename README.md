@@ -15,11 +15,13 @@ Defined key measures to calculate important metrics dynamically by creating anot
 - Total Sales = SUM(dataset[Total Amount])
 - Total Quantity = SUM(dataset[Quantity])
 - Total Profit = SUM([Total Amount])
-- Scenario Analysis: Created dynamic measures to adjust profit based on changes in cost per unit, enabling “What-If” analysis.
 - Total Cost = SUM([Quantity]) * 'Cost per Unit'[Cost per Unit Value]
 - Profit = [Total Sales] - [Total Cost]
 - Profit Margin % = DIVIDE([Profit], [Total Sales], 0)
 - Sales per Unit = DIVIDE([Total Sales], [Total Quantity], 0)
+
+Scenario Analysis – created a dynamic measure to adjust profit based on changes in cost per unit. This measure uses an extra parameter I added, 
+which was not present in any table, allowing “What-If” analysis for cost variations.
 
 These measures allowed the dashboard to respond instantly to slicers and filters, giving meaningful insights such as:
 - Top-performing products and categories

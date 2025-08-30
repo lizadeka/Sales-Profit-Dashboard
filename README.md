@@ -3,6 +3,8 @@
 This project is an **interactive Power BI dashboard** that provides insights into sales, profit, and customer behavior.  
 It is designed to help understand **which products, customers, and demographics drive profitability**.
 
+## 🛠 Data Modeling & Transformations
+
 To enable time-based analysis in the dashboard, I created a Calendar table that included all dates within the dataset range. This allowed:
 
 - Month, Quarter, and Year-level aggregation
@@ -69,3 +71,8 @@ from ₹305.16K to ₹430.86K, demonstrating the substantial effect of cost opti
 
 <img width="1153" height="645" alt="image" src="https://github.com/user-attachments/assets/de1f04e1-9b99-4589-86d4-d4be31508cae" />
 
+## About Me  
+👋 Hi, I'm Liza Deka — a data enthusiast.  
+   I enjoy building projects, analyzing real-world data, and sharing insights through GitHub and LinkedIn. 
+   
+  📬 Let’s Connect: <a href="https://www.linkedin.com/in/liza-deka-869473369/">LinkedIn</a>
